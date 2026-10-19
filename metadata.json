@@ -1,0 +1,6 @@
+{
+  "name": "Matematica Distractivă",
+  "description": "Aplicație educațională interactivă de matematică și logică pentru copii de 7–14 ani: 10 provocări captivante cu ilustrații SVG, spațiu de încercare, indicii și explicații pas cu pas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
